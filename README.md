@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=mikiw&layout=compact&langs_count=10&hide=cofeescript,html,css,php,tex&exclude_repo=mean,lazyload,infotiendas-listar,NetworkDiscoverer,OptativesApp,swagup-salesforce-vscode,infotiendas,greeting_cards)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=mikiw&layout=compact&langs_count=10&hide=html,css&exclude_repo=DeFiTaxCalculator,ProceduralCityGenerator)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
