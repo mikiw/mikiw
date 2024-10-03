@@ -6,3 +6,4 @@
 - ✨ Previously, I worked on a local testnet for [Starknet (STARKs)](https://github.com/0xSpaceShard/starknet-devnet-rs).
 - 🌱 I’m currently improving my Rust skills and learning the mathematical aspects of zero-knowledge proofs.
 - 🤔 I'm interested in cryptography and blockchains.
+- 
