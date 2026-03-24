@@ -6,4 +6,4 @@
 - ✨ Previously, I worked on a local testnet for [Starknet (STARKs)](https://github.com/0xSpaceShard/starknet-devnet-rs).
 - 🔬 Researching zk projects and libraries like [zksync era](https://github.com/matter-labs/zksync-era) and [scroll](https://github.com/scroll-tech).
 - 🌱 I’m currently improving my blockchain architecture skills.
-- 🤔 I'm interested in Rust, blockchains, cryptography and mathematical aspects of zero-knowledge proofs.
+- 🤔 I'm interested in Rust, blockchains, cryptography, mathematical aspects of zero-knowledge proofs, post quantum cryptography.
