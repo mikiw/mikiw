@@ -6,4 +6,4 @@
 - ✨ Previously, I worked on a local testnet for [Starknet (STARKs)](https://github.com/0xSpaceShard/starknet-devnet-rs), [zkEVM blockchain](https://glitchd.network/) based on [halo2 zkevm-chain (SNARKs)](https://github.com/privacy-scaling-explorations/zkevm-chain) and [zkevm-circuits](https://github.com/scroll-tech/zkevm-circuits).
 - 🔬 Researching zk projects and libraries like [zksync era](https://github.com/matter-labs/zksync-era) and [scroll](https://github.com/scroll-tech).
 - 🌱 I’m currently improving my blockchain architecture skills.
-- 🤔 I'm interested in Rust, blockchains, cryptography, mathematical aspects of zero-knowledge proofs, post quantum cryptography (ML-DSA).
+- 🤔 I'm interested in Rust, blockchains, cryptography, mathematical aspects of zero-knowledge proofs, post quantum cryptography (ML-DSA-44).
